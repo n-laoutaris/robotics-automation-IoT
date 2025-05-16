@@ -19,6 +19,8 @@ WIP
 - Add wiring diagrams
 - Clean and document older sketches
 - Add photos and videos of prototypes in action
+- Include test sketches
+
 
 ---
 
