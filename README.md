@@ -8,7 +8,7 @@ A collection of experiments, prototypes, and projects related to robotics, senso
 
 WIP
 
-## ⚙️ Platforms
+## Platforms
 
 - Arduino IDE
 - ESP32 DevKit
