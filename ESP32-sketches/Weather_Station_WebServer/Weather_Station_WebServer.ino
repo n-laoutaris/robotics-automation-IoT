@@ -10,8 +10,8 @@
 #include <Wire.h>
 
 // Replace with your network credentials
-const char* ssid     = "Nicklamda";
-const char* password = "andronikos";
+const char* ssid     = "*****";
+const char* password = "*****";
 
 // uncomment one of the lines below for whatever DHT sensor type you're using
 #define DHTTYPE DHT11   // DHT 11
