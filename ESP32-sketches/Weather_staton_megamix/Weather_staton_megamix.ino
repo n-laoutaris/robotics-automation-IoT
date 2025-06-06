@@ -27,8 +27,8 @@
 
 //WiFi settings
 AsyncWebServer server(80);
-const char* ssid = "Mia_Skatoula";
-const char* password = "6972129095Chatzi!";
+const char* ssid = "********";
+const char* password = "********";
 
 //Global constants
 const int PRG = 0;
