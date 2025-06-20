@@ -2,7 +2,7 @@
 
 Disclaimer: This repository is a work in progress.
 
-A collection of experiments, prototypes, and projects related to robotics, sensors, and automation. Built mostly using Arduino (ESP32, Uno), and other microcontrollers.
+A collection of experiments, prototypes and other projects related to robotics, sensors and automation. Built mostly using Arduino (ESP32, Uno) and other microcontrollers.
 
 ## Included Projects
 
@@ -21,7 +21,6 @@ WIP
 - Add photos and videos of prototypes in action
 - Include test sketches
 
-
 ---
 
-Feel free to explore!
+There is not much here yet but feel free to explore!
